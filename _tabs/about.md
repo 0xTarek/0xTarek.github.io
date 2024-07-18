@@ -15,7 +15,8 @@ Dedicated cybersecurity enthusiast driven by a fervent commitment to safeguardin
 
 ## Professional Experience
 
-### SOC Analyst @ ITS (Information Technology Solutions) MDI Project **From: Nov 2023 : Till Now**  
+### SOC Analyst
+#### ITS (Information Technology Solutions) MDI Project **From: Nov 2023 : Till Now**  
 - Monitoring SIEM resources for any component failure.
 - Perform initial triage / investigation of alerts to identify false positives, policy violations, intrusion attempts and compromises.
 - Escalating triaged alerts to Tier II Analysts for deeper analysis and review. •Analyses a variety of network and host-based security appliance logs.
@@ -26,7 +27,8 @@ Dedicated cybersecurity enthusiast driven by a fervent commitment to safeguardin
 
 ## Internships
 
-### SOC Analyst @ The Egyptian Credit Bureau (I-Score)
+### SOC Analyst
+#### The Egyptian Credit Bureau (I-Score)
 - Analyzing the Offenses Eliminating False Positive and Escalating the True Positives with Recommended Action to Designated Person.
 - Investigate Suspicious Phishing Mails, Domains & IPs Using Open-Source Tools and Send Recommendations to Appropriate Teams.
 
